@@ -131,7 +131,7 @@ const Index = () => {
       {/* Keunggulan */}
       <section className="section-padding">
         <div className="container-main">
-          <h2 className="text-center text-2xl font-bold text-foreground sm:text-3xl">Mengapa Toko Digital?</h2>
+          <h2 className="text-center text-2xl font-bold text-foreground sm:text-3xl">Mengapa Toko Mustcoor?</h2>
           <p className="mx-auto mt-2 max-w-lg text-center text-muted-foreground">Keunggulan berbelanja di platform kami</p>
           <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {advantages.map((item, i) => (

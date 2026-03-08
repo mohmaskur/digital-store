@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div>
-            <h3 className="text-lg font-bold text-primary">Toko Digital</h3>
+            <h3 className="text-lg font-bold text-primary">Toko Mustcoor</h3>
             <p className="mt-2 text-sm text-muted-foreground">
               Tempat terbaik membeli produk digital berkualitas tinggi.
             </p>
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-10 border-t pt-6 text-center text-sm text-muted-foreground">
-          © 2026 Toko Digital. Semua hak dilindungi.
+          © 2026 Toko Mustcoor. Semua hak dilindungi.
         </div>
       </div>
     </footer>
