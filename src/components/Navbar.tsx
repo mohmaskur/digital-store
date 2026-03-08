@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="sticky top-0 z-50 border-b bg-card/80 backdrop-blur-lg">
       <div className="container-main flex h-16 items-center justify-between">
         <Link to="/" className="text-xl font-bold text-primary">
-          Toko Digital
+          Toko Mustcoor
         </Link>
 
         {/* Desktop */}
